@@ -1,0 +1,5 @@
+pip install torch
+pip install torchsummary
+pip install shap
+pip install mlxtend
+pip install sklearn
