@@ -14,7 +14,7 @@ Reduced Resource Requirements: Fine-tuning a pre-trained model requires fewer co
 
 Generalization: The pre-trained model has already learned many features that are useful for image classification tasks, which enables it to generalize well to new datasets.
 
-Real-world Impact: Accurately detecting pneumonia from chest X-ray images can aid in the early detection and treatment of the disease, potentially saving lives and reducing healthcare costs.
+Real-world Impact: Accurately detecting pneumonia from chest X-ray images can aid in the early detection and treatment of the disease, potentially saving lives and reducing healthcare expenditure.
 
 
 
